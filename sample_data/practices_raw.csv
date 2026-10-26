@@ -1,0 +1,11 @@
+practice_name,doctor_name,phone,email,suburb,state,postcode,services
+ sunrise family medical centre ,dr anita SHARMA,(02) 5550 1101,reception@sunrisefmc.example,Parramatta,nsw,2150,General practice; child health; skin checks
+Sunrise Family Medical Centre,Dr Anita Sharma,+61 2 5550 1101,reception@sunrisefmc.example,Parramatta,NSW,2150,GP
+Bayside Health Hub,dr. tom nguyen,0455501202,info@baysidehub,Brighton,VIC,3186,GP; mental health plans; travel vaccines
+Harbour City Doctors,Dr Priya Menon,5550 1303,hello@harbourdocs.example,Southport,QLD,4215,Women's health; antenatal care
+Riverstone Medical,Dr Luke O'Brien,1300 555 140,contact@riverstonemed.example,Riverstone,QLD,2765,General practice
+Outback Clinic,Dr Sam Taylor,08 5550 1505,,Alice Springs,NT,0870,Remote health; telehealth
+Kids First Paediatrics,dr maria rossi,03 5550 1606,admin@kidsfirst.example,Hawthorn,VIC,3122,Paediatrics; child development
+Coastal Skin & Wellness,DR JAMES LEE,0412 555 177,book@coastalskin.example,Fremantle,WA,6160,Dermatology; skin cancer checks
+Coastal Skin & Wellness,Dr James Lee,0412555177,book@coastalskin.example,Fremantle,WA,6160,Dermatology
+Northside Medical,Dr Hannah Cole,abc,team@northsidemed.example,Chermside,QLD,4032,Diabetes care; chronic disease management
